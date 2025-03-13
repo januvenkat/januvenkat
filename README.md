@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **Gen AI, Machine Learning**  
 - 💬 Ask me about **Data Analysis , Visualization**  
 - 📫 How to reach me **vjanani2305@gmail.com**  
-- ⚡ Fun fact **I find patterns in everything—ven my sugar consumption!🍬📊 #DataEverywhere**  
+- ⚡ Fun fact **I find patterns in everything — even my sugar consumption!🍬📊 #DataEverywhere**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
