@@ -6,7 +6,7 @@
 </h1>
 
 
-<h1 align="center">Hi 👋, I'm Janani</h1>
+<h1 align="center">Hey there👋! I'm Janani ✨ </h1>
 <h3 align="center">🔍 Passionate about transforming raw data into impactful insights.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Hz4Cyb3TuEYannh7eI3jkm9LPsdop7FIxQ&s" />
