@@ -1,6 +1,10 @@
 <h1 align="center">
-    <img src="https://boffinsacademy.com/wp-content/uploads/2024/05/Data-Science-Course-in-Nagpur-1.png" alt="Banner" width="80%" />
+    <img src="https://boffinsacademy.com/wp-content/uploads/2024/05/Data-Science-Course-in-Nagpur-1.png" 
+         alt="Banner" 
+         width="100%" 
+         style="height: 250px; object-fit: cover;" />
 </h1>
+
 
 <h1 align="center">Hi 👋, I'm Janani</h1>
 <h3 align="center">🔍 Passionate about transforming raw data into impactful insights.</h3>
