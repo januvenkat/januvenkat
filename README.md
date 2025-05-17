@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=januvenkat&label=Profile%20views&color=0e75b6&style=flat" alt="januvenkat" /> </p>
 
-- 🌱 I’m currently learning **Gen AI, Machine Learning**  
+- 🌱 I’m currently learning **Gen AI, PowerBI**  
 - 💬 Ask me about **Data Analysis , Visualization**  
 - 📫 How to reach me **vjanani2305@gmail.com**  
 - ⚡ Fun fact **I find patterns in everything — even my sugar consumption!🍬📊 #DataEverywhere**  
